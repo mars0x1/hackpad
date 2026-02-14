@@ -1,5 +1,6 @@
 # Mars Hackpad 🚀
-<img width="1920" height="629" alt="marspad" src="https://github.com/user-attachments/assets/b2ad3d2d-f4b6-486d-920e-7c4512080532" />
+<img width="1724" height="897" alt="mars_hackpad" src="https://github.com/user-attachments/assets/320909c7-e6b0-4c46-9526-0728f474f3aa" />
+
 
 
 Mars Hackpad is a 12-input productivity tool designed for seamless media control and custom shortcuts. It features an 11-key matrix and a rotary encoder, providing a tactical way to manage your workspace. It is powered by the **Seeed XIAO RP2040** and runs on **KMK firmware**.
@@ -22,7 +23,8 @@ My PCB was designed in KiCad. It features a 4x3 matrix layout and custom silkscr
 *  <img width="796" height="655" alt="image" src="https://github.com/user-attachments/assets/b0fb487e-674f-4e5a-9e54-0a031fbd4fed" />
 
 * **PCB Layout**:
-* <img width="506" height="787" alt="image" src="https://github.com/user-attachments/assets/b9e5acb2-a4b2-4ea3-93b8-ba61bfec9fc6" />
+* <img width="410" height="578" alt="image" src="https://github.com/user-attachments/assets/c638d7d8-d79e-4e20-9bb0-e906fe26f207" />
+
 
 
 * I used standard MX-style footprints for the keys and ensured the XIAO RP2040 sits centrally for easy USB-C access.
