@@ -29,6 +29,7 @@ My PCB was designed in KiCad. It features a 4x3 matrix layout and custom silkscr
 
 * I used standard MX-style footprints for the keys and ensured the XIAO RP2040 sits centrally for easy USB-C access.
 <img width="722" height="863" alt="image" src="https://github.com/user-attachments/assets/7c15d355-71ee-4efb-a78f-7058c424dea6" />
+
 ## Firmware Overview
 This hackpad uses **KMK Firmware** (CircuitPython).
 * **Matrix Setup**: Rows use pins **D0, D1, D2, D3** and Columns use **D6, D7, D9**.
