@@ -1,5 +1,5 @@
 # Mars Hackpad 🚀
-<img width="1724" height="897" alt="mars_hackpad" src="https://github.com/user-attachments/assets/320909c7-e6b0-4c46-9526-0728f474f3aa" />
+<img width="1724" height="897" alt="mars_hackpad" src="https://github.com/mars0x1/hackpad/blob/main/imgs/mars_hackpad.png" />
 
 
 
@@ -20,15 +20,15 @@ Mars Hackpad is a 12-input productivity tool designed for seamless media control
 ## PCB
 My PCB was designed in KiCad. It features a 4x3 matrix layout and custom silkscreen labeling.
 * **Schematic**:
-*  <img width="796" height="655" alt="image" src="https://github.com/user-attachments/assets/b0fb487e-674f-4e5a-9e54-0a031fbd4fed" />
+*  <img width="796" height="655" alt="image" src="https://github.com/mars0x1/hackpad/blob/main/imgs/Schematic.png" />
 
 * **PCB Layout**:
-* <img width="410" height="578" alt="image" src="https://github.com/user-attachments/assets/c638d7d8-d79e-4e20-9bb0-e906fe26f207" />
+* <img width="410" height="578" alt="image" src="https://github.com/mars0x1/hackpad/blob/main/imgs/PCB_layout.png" />
 
 
 
 * I used standard MX-style footprints for the keys and ensured the XIAO RP2040 sits centrally for easy USB-C access.
-<img width="722" height="863" alt="image" src="https://github.com/user-attachments/assets/7c15d355-71ee-4efb-a78f-7058c424dea6" />
+<img width="722" height="863" alt="image" src="https://github.com/mars0x1/hackpad/blob/main/imgs/3D_PCB.png" />
 
 ## Firmware Overview
 This hackpad uses **KMK Firmware** (CircuitPython).
